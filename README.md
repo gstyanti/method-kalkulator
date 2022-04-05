@@ -1,0 +1,2 @@
+# method-kalkulator
+method kalkulator
